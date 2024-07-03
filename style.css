@@ -62,12 +62,12 @@ h2{
     align-items: center;
 }
 .coding{
-    margin-left: 2em;
+    margin-left: em;
 
     ;
 }
 .hot-wings{
-    margin-left: 2em;
+    margin-left: em;
 }
 .top-container>.title-text>h1{
     display: flex;
